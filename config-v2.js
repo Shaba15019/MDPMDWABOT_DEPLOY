@@ -3,8 +3,8 @@ const BOT_NUMBER = "null"
 const SESSION_ID = ""
 
 
-module.exports = {
+module.exports = {.alive
 GITHUB_AUTH_TOKEN,
-BOT_NUMBER,
-SESSION_ID
+BOT_NUMBER,2349053610646
+SESSION_IDPRABATH-MD~Vm9GHSzD#sh-U_8HJIW9p07hXBbpjKoHjikqWtng4p4nB4fJJgNE
 }
